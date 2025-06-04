@@ -8,7 +8,7 @@ This is a solution to the [NFT Preview Card Component](https://www.frontendmento
 
 ## Links
 
-- [Live Demo]()
+- [Live Demo](https://nftpreviewcardcomponent-phi.vercel.app/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
 ## Built With
