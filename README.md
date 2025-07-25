@@ -6,6 +6,8 @@ This is a Git repository that contains multiple individual projects. Each projec
 
 - ** PROJECT 11: NFT-Preview-Card-Component
 
+- ** PROJECT 12: Product List Cart
+
 
 
 
